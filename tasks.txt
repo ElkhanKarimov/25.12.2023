@@ -1,0 +1,23 @@
+1.Programist və Developer arasındaki fərq nədir?
+
+
+Developerlər və proqramçılar oxşar vəzifə öhdəliklərini və bacarıqlarını bölüşsələr də, bunlar əslində iki fərqli peşədir. Həm proqram developelər, həm də proqramçılar kodu yazır və sınaqdan keçirir. Onlar arasında bir neçə əsas fərq var. Programmer hər hansısa bir kodun yazılması, onun errorlarının həll olunması və test olunması işinə baxır. Ona gələn taskı həll etmək, errorları aradan qaldırmaq(bugfix), və həmin kodu optimallaşdırmaq üçün çalışır. Developer isə müştəridən gələn istəkləri götürür, həmin problemi ən optimal necə həll etmək olar haqqında strategiyalar, metodlar çıxarır və həmin metoda əsasən öz programını inkişaf elətdirir. Bir proqramçı kod üzrə ixtisaslaşan bir texnik olsa da, developer kodlaşdırmağı bacaran dizayner və ya layihə meneceridir.
+
+
+2.Paradigmalari araşdırıb hər birinə bir örnək yazın.
+
+Paradigma bir məsələyə yanaşma tərzidir. Paradigma 2 əsas hissəyə bölünür: “İmperativ” lik və “Deklarativ” lik. Bunlara bizim kod yazarkən istifadə etdiyimiz metodlar da demək olar.
+
+İmperativ programlaşdırma, bir programlaşdırma dilindəki əmrlərin sətir-bə-sətir verilməsidir. 3 yerə bölünür: Procedural, Object Oriented, Paralel processing.
+
+Prosedural programlaşdırmada gördüyümüz işi daha kiçik hissələrə(prosedurlara) bölürük və həmin prosedurlarla idarə edirik. Məsələn tutaqki tort bişirmək istəyirik. Bunun üçün bizə lazım olan ərzaqları(hissələri) yazırıq.
+Object Oriented hərbir şeyə bir obyekt kimi yanaşır. Məsələn sinifdə olan hərkəs bir obyektdir.
+Parallel Processing eyni zamanda paralel olaraq bir neçə məsələni həll edə bilirik. Məsələn kinoya baxaraq telefonla danışmaq.(Apache Beam, Apache Flink, CUDA, OpenCL).
+
+
+Deklarativ programlaşdırma nəticə yönümlüdür. Yəni bir işin necə etməli olduğu ilə yox nə etməli olduğu ilə maraqlanır. 3 yerə bölünür: Logic, Functional, Database.
+
+Logic programlaşdırmaya robotların hərəkətini misal göstərə bilərik.
+Functional programlaşdırma kodların sayını azaldır təkrarlanmanın qarşısını alır.(C#,Java)
+Database indeksləmə metodu ilə işləyir. Dataları axtarır, lazımı datanı bizə verir.
+
